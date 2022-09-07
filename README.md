@@ -1,2 +1,2 @@
-[![Pavel’s GitHub Banner](./assets/picture.png)]
+![Pavel’s GitHub Banner](./assets/picture.png)
 
